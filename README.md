@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn build && yarn ssr`
+
+After bulding the react app `yarn ssr` commend will start react app with ssr.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
